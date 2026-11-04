@@ -1,4 +1,4 @@
-FROM alpine:3.18@sha256:eece025e432126ce23f223450a0326fbebde39cdf496a85d8c016293fc851978
+FROM alpine:3.23@sha256:ff7f0c727dd796aa36787bfcd9a64bf35a6ce72a73451b3359fde849b6703d63
 
 LABEL \
   org.label-schema.name="docker-bench-security" \
